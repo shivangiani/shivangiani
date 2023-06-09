@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivangiani
-- 👀 I’m interested in UX design
-- 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to collaborate on UX Research
+- 👀 I’m interested in UI/UX design, Graphic Design
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on UI/UX Research
 
 
 <!---
